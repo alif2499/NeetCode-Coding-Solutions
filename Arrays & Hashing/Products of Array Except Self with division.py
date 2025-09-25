@@ -23,4 +23,4 @@ class Solution:
                 else:
                     output.append(prod)
 
-        return output
+        return output 
